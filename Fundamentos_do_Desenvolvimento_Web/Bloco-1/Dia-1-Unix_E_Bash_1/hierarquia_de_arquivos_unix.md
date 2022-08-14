@@ -1,0 +1,13 @@
+- / = raiz de arquivos.
+- boot - arquivo de configuração inicial.
+- bin = arquivos binarios.
+- dev = arquivo do dispositivo.
+- etc = script de inicialização.
+- home = diretorio home para diferentes usuarios.
+- proc = diretorio dinamico especial que mantêm informação sobre o estado do sistema.
+- root - diretorio home do usuario root.
+- sbin = binarios importantes do sistema.
+- temp = arquivos temporarios.
+- usr = arquivo para todos usuarios.
+- var = arquivos variaveis, logs, banco de dados.
+:shell:	

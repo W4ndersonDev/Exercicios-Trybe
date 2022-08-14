@@ -1,0 +1,12 @@
+## Outros comandos do terminal :writing_hand:	
+- head = Mostar as 10 primeiras linhas de conteudo de algum arquivo.
+- head -5/-4/-3 etc.= mostar apenas o numero de linhas desejadas.
+- tail = mostrar as 10 ultimas linhas.
+- less = dividir o conteudo do arquivo por paginas(apertar espaço para ir pra proxima pagina e Q para sair).
+- grep = fazer buscas em arquivos. ex: grep A alfabeto.txt.
+- wc = para saber a quantidade de linhas, palavras e caracteres( -l mostrar apenas as linha, -w apenas as palvras, -c apenas os caracteres.
+- * = comando corriga quando usado pode definir todos caracteres incluido. ex: rm *.txt(todos os arquivos com txt no final serão apagados)
+- ? = substitui um caractere quando for usado.
+- man comando = lê a pagina do manual do comando corresponde.
+- whatis comando = breve descrição do comando informado.
+- apropos = corresṕnde a comando "palavra chave" em suas paginas do manual.
