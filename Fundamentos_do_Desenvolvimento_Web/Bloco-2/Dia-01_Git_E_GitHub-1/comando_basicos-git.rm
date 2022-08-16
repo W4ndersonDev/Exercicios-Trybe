@@ -1,0 +1,24 @@
+# Alguns comandos para fixar.
+- git checkout "nome da branch" = mover-se para a branch selecionada.
+- git push = enviar uma branch local para uma remota.
+- git init = iniciar um repositorio git.
+- git remote add origin url = vincular repo local com um remoto.
+- git add = botar arquivos alterados em stagiing.
+- git pull sincronizar a main local com  a remota.
+- git checkout -b = criar uma branch e mover-se para ela.
+## Após fazer algumas alteraçoes em sua segunda branch.
+- git status = mostar o status do seu repo git.
+- git add = ..
+- git commit -m = para commitar sua alteração.
+- git branch = listar suas branchs.
+- git branch - a = listar branchs remotas.
+- git barnch -d = apagar branch.
+- git push -u = subir pela primeira vez sua branch.
+- rm -rf .git = apagar um repositorio.
+- git checkout . = remover alteraçoes.
+- git clean -df = para apagar novos arquivos fora do stage.
+- git reset = para remover do stage.
+- git revert head = desfaz o ultimo commit.
+- git clone = clonar um repositorio remoto.
+- git push origin master = mandar um repo local para o repo remoto pela primeira vez.
+- git remote -v = mostar o endereço d oremoto.
