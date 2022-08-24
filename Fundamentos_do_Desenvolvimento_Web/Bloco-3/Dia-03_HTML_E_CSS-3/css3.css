@@ -1,0 +1,32 @@
+#titulo {
+    width: 65px;
+    color: #86af49;
+    font-family: sans-serifs;
+}
+#header {
+    background-color: #d5e1df;
+    color: #86af49;
+    
+}
+ body {
+  background-color: #b5e7a0;
+  font-size: 16px;
+}
+.lista {
+    background-color: #d5e1df;
+    font-weight: 600;
+}
+#WSS {
+    width: 200px;
+}
+#content {
+    background-color: #d5e1df;
+    font-size: 1em;
+}
+h4 {
+    font-style: oblique;
+    line-height: 6px;
+    text-align: left;
+    text-decoration: underline;
+    color: rgb(54, 27, 78);
+}
