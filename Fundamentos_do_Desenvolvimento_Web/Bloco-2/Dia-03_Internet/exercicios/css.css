@@ -1,0 +1,21 @@
+#header {
+    background-color: rgb(19, 207, 91);
+}
+
+h1 {
+    color: aqua;
+    font-size: larger;
+}
+
+p {
+ color: aqua;
+ font-weight: bold;
+}
+
+ul {
+    border: 3px solid black;
+}
+
+body {
+    background-color: blue;
+}
